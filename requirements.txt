@@ -1,0 +1,3 @@
+opecv-contrib-python-headless
+ultralytics
+streamlit
