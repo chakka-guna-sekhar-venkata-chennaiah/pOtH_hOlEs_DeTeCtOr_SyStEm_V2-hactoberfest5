@@ -29,8 +29,7 @@ glowing_text_style = '''
             0% { color: #FF9933; } /* Saffron color */
             25% { color: #FFFFFF; } /* White color */
             50% { color: #128807; } /* Green color */
-            75% { color: #0000FF; } /* Blue color */
-            100% { color: #FF9933; } /* Saffron color */
+            
         }
     </style>
 '''
